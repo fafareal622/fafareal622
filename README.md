@@ -4,7 +4,7 @@
 I’m not super active on GitHub, but I do manage a few repositories, including the Darktouch Studios website. My primary focus is Roblox development, and I use **Roblox Studio** as my main IDE (call me unusual, but I enjoy both using and playing Roblox).
 
 ---
-> Rise and shine, Mr. Freeman
+> Rise and shine, Mr. Freeman, Rise and shine.
 
 — G-Man
 
