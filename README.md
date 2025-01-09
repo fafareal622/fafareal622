@@ -6,7 +6,7 @@ I’m not super active on GitHub, but I do manage a few repositories, including 
 ---
 > Rise and shine, Mr. Freeman
 
-— G-MAn
+— G-Man
 
 ### My Coding Experience  
 
