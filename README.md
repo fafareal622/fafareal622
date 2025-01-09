@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello! 
 
-<!--
-**fafareal622/fafareal622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me  
+I’m not super active on GitHub, but I do manage a few repositories, including the Darktouch Studios website. My primary focus is Roblox development, and I use **Roblox Studio** as my main IDE (call me unusual, but I enjoy both using and playing Roblox).
 
-Here are some ideas to get you started:
+---
+> Rise and shine, Mr. Freeman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+— G-MAn
+
+### My Coding Experience  
+
+| Rank | Programming Languages I Use |
+|------|-----------------------------|
+|  1   | **Lua/Luau** (primarily for Roblox development) |
+|  2   | **JavaScript** |
+|  3   | **HTML** |
+|  4   | **TypeScript** |
