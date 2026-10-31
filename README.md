@@ -1,9 +1,8 @@
-# Hello! 
+# hi
 
 ### About Me  
-I’m not super active on GitHub, but I do manage a few repositories
+i have been programming for about 4 years now, im an AI assisted developer, so if you don't want me to contribute it's fine, but please dont dm me complaining about my contributions. thanks.
 
 ---
-> Rise and shine, Mr. Freeman, Rise and shine.
-
-— G-Man
+### my contacts
+discord: billy2002
